@@ -13,8 +13,6 @@ __pycache__/
 # logs
 logs/
 
-# arquivos locais
-notas_enviadas.json
 
 # sistema
 .DS_Store
